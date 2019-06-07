@@ -1,0 +1,3 @@
+[submodule "vue/vue-firebase-chat-app/dist"]
+	path = vue/vue-firebase-chat-app/dist
+	url = https://github.com/sprintify/vue-super-chat
